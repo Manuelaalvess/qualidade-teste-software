@@ -7,3 +7,7 @@ Estudos da disciplina de Qualidade e Teste de Software
 - [Tema 2. Processo do Teste de Software e Seus Princípios](tema-02-processo-teste-software/README.md)
 - [Tema 3. Estratégias e Planejamento de Teste de Software](tema-03-estrategias-planejamento-teste/README.md)
 - [Tema 4. Gestão de Defeitos e Plano de Teste](tema-04-gestao-defeitos-plano-teste/README.md)
+
+## Exercício prático
+
+- [Gerenciando o teste do Cadastro de Usuário (Temas 1 a 4 juntos)](exercicio-pratico/README.md)
